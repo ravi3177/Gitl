@@ -1,1 +1,3 @@
 This is the text file written to test the Git Operations for Cloud Devops Lab-1
+the second line from branch bj..bye
+the third line from master me..hello
