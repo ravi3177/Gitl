@@ -1,0 +1,1 @@
+This is the text file written to test the Git Operations for Cloud Devops Lab-1
